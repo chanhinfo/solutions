@@ -1,0 +1,16 @@
+- Ultraviewer
+- Teamviewer
+- Anydesk
+- Zerotier Remote
+- Ngrock
+- RealVNC
+- Google chrome remote
+- Dameware Remote Support
+- UltraVNC
+- Radmin
+- NetSupport Manager
+- ScreenConnect
+- Splashtop
+- Parallels Access
+- Zoho Assist
+- ManageEngine ServiceDesk Plus
